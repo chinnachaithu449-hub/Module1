@@ -11,7 +11,7 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 ~~~
 print('T')
 print('a')
-
+~~~
 ## Output
 ![530363860-a09e2ff4-dcae-41f4-8d9a-3d107155eab5](https://github.com/user-attachments/assets/bc82ca6a-9dbe-4a9a-9207-376e01f1364e)
 
